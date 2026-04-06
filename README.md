@@ -1,2 +1,4 @@
-# Company-Performance-Analysis-PowerBI
-This project includes the examination of financial data such as profitability, solvency, liquidity, and activity ratios for companies over multiple years, visualized and analyzed through interactive Power BI reports. This project was done as part of a traineeship program with Med Tour Easy.
+📊 Data Analytics Portfolio
+
+Welcome to my Data Analytics Portfolio!
+This repository showcases my hands-on projects and dashboards built using industry-standard tools like Power BI, Excel, Tableau, SQL, and Python.
